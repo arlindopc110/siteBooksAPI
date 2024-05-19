@@ -1,0 +1,1 @@
+HTTP => Hypertext Tranfer Protocol, é um protocolo de comunicação utilizado para transferir dados na Web
